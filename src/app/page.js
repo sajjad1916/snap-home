@@ -1,7 +1,6 @@
 import Navbar from "@/components/common/Navbar";
 import About from "@/components/home/About";
 import Counter from "@/components/home/Counter";
-import Faq from "@/components/home/Faq";
 import Footer from "@/components/home/Footer";
 import Hero from "@/components/home/Hero";
 import Pricing from "@/components/home/Pricing";
